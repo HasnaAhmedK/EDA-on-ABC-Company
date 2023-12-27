@@ -1,4 +1,4 @@
-This repository contains code snippets and notebooks for an Exploratory Data Analysis (EDA) project conducted on the Football players data.
+This repository contains code snippets and notebooks for an Exploratory Data Analysis (EDA) project conducted on ABC Company.
 The analysis was completed as part of the data science course on Entri Elevate
 
 Key Steps and Visualizations
